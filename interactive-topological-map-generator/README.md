@@ -24,7 +24,7 @@ interactive-topological-map-generator
 Para configurar el proyecto, clona el repositorio e instala las dependencias requeridas:
 
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/cyberwarrior8/Interactive-Graphs.git)>
 cd interactive-topological-map-generator
 pip install -r requirements.txt
 ```
